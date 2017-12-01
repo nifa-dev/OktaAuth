@@ -1,5 +1,5 @@
 {
-  "name": "nifa-dev/OktaAuth",
+  "name": "nifa-dev/okta-auth",
   "description": "Plugin to use Okta for NIFA Scoring Applications",
   "type": "cakephp-plugin",
   "keywords": ["cakephp"],
