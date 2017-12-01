@@ -5,6 +5,9 @@
   "keywords": ["cakephp"],
   "homepage": "",
   "license": "MIT",
+  "require": {
+    "fproject/php-jwt": "^4.0"
+  },
   "authors": [
     {
       "name": "Jared Testa",
