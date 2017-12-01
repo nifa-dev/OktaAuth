@@ -1,0 +1,20 @@
+{
+  "name": "nifa-dev/OktaAuth",
+  "description": "Plugin to use Okta for NIFA Scoring Applications",
+  "type": "cakephp-plugin",
+  "keywords": ["cakephp"],
+  "homepage": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jared Testa",
+      "homepage": "",
+      "role": "Author"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "OktaAuth\\": "src"
+    }
+  }
+}
